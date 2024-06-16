@@ -1,4 +1,6 @@
-![image](https://github.com/tranquangthuan/Poll/assets/14936109/e4475546-0974-41cd-8fac-c32a4af8e41c)![image](https://github.com/tranquangthuan/Poll/assets/14936109/f0512abb-6df5-4b3d-84e1-7dd4bf3d7b3c)Tạo DB - và change password sa
+Download Project - Import into IDE
+
+Tạo DB - và change password sa
 ![image](https://github.com/tranquangthuan/Poll/assets/14936109/8cb94d9e-347b-40b6-9da6-8932471fdf2c)
 Maven update project và Run project
 1. Click menu Tạo khảo sát để tạo mới 1 cuộc khảo sát
